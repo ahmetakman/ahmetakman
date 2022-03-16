@@ -15,4 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetakman&show_icons=true&theme=merko&locale=en&layout=compact" alt="ahmetakman" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmetakman&show_icons=true&theme=merko&locale=en" alt="ahmetakman" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ahmetakman&show_icons=true&theme=merko&locale=en" alt="ahmetakman" /></p>
