@@ -18,8 +18,7 @@
 <p><a href="https://www.buymeacoffee.com/ahmetakman"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ahmetakman" /></a></p><br><br>
 </br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetakman&show_icons=true&theme=merko&locale=en&layout=compact" alt="ahmetakman" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ahmetakman&show_icons=true&theme=merko&locale=en" alt="ahmetakman" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetakman&show_icons=true&theme=merko&locale=en" alt="ahmetakman" /></p>
 </br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmetakman&label=Profile%20views&color=0e75b6&style=flat-square" alt="ahmetakman" /> </p>
 
