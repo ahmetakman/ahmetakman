@@ -2,7 +2,7 @@
 <h3 align="center">An undergraduate student at METU EEE</h3>
 
 
-- 📫 How to reach me **ahmet.akman@metu.edu.tr**
+- 📫 How to reach me **ahmet.akman@tutanota.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
