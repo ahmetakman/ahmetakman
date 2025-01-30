@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet Akman</h1>
-<h3 align="center">An undergraduate student at METU EEE</h3>
+<h3 align="center">Master student @UPSaclay and Intern at Institute of Neuroinformatics @ETHZurich & @UZH</h3>
 
 
 - 📫 How to reach me **ahmet.akman@tutanota.com**
