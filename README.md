@@ -5,7 +5,7 @@
 
 - 👨‍💻 My website is [https://ahmetakman.github.io/](https://ahmetakman.github.io/)
 
-- 📫 How to reach me **akmana@ethz.ch**
+- 📫 How to reach me **akman@ini.ethz.ch**
 
 - 📄 Know about my experiences [https://ahmetakman.github.io/assets/pdf/cv_ahmet_akman.pdf](https://ahmetakman.github.io/assets/pdf/cv_ahmet_akman.pdf)
 
